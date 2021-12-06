@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="656d2ce4-5b90-44fc-bb79-4109594bc330" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/chiku/jdbc/demo/CreateDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chiku/jdbc/entities/Instructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chiku/jdbc/entities/InstructorDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hibernate-tutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hibernate-tutorial.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hibernate-tutorial/com/chiku/jdbc/demo/DeleteStudentDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hibernate-tutorial/com/chiku/jdbc/demo/QueryStudentsDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chiku/jdbc/demo/CreateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chiku/jdbc/demo/CreateDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chiku/jdbc/entities/Instructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chiku/jdbc/entities/Instructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chiku/jdbc/entities/InstructorDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chiku/jdbc/entities/InstructorDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chiku/jdbc/entities/Student.java" beforeDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,11 +39,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jar_files/mysql-connector-java-8.0.27/mysql-connector-java-8.0.27.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -47,6 +53,18 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.chiku.jdbc.demo" />
     </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="Application.CreateDemo">
     <configuration name="CreateDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -85,7 +103,10 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="656d2ce4-5b90-44fc-bb79-4109594bc330" name="Changes" comment="" />
@@ -101,11 +122,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
